@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: object-binding
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kalpesh
+Implementation-Vendor-Id: com.bunny
+Build-Jdk: 1.8.0_252
+Implementation-URL: http://projects.spring.io/spring-boot/object-bindi
+ ng/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
